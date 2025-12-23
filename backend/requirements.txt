@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+huggingface-hub
+python-dotenv
+opencv-python-headless
+numpy
+pillow
+groq
+tavily-python
